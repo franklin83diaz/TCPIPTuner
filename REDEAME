@@ -1,0 +1,25 @@
+## TCPIPTuner - Internet Connection Optimization
+TCPIPTuner is an advanced tool designed to optimize your internet connection. This tool focuses on updating and optimizing the Maximum Transfer Unit (MTU), verifying the connection with or without TCP window scaling, and implementing TCP low latency.
+
+## Features
+MTU Optimization: TCPIPTuner adjusts the Maximum Transfer Unit (MTU) to maximize the efficiency of your internet connection.
+
+TCP Connection Verification: The tool checks whether your connection is using TCP window scaling, which can increase data transfer speed.
+
+TCP Low Latency: TCPIPTuner implements TCP low latency techniques to reduce delay in data transmission, thereby improving the speed and efficiency of your internet connection.
+
+## How to Use TCPIPTuner
+Download and install TCPIPTuner on your system.
+
+Run the program and select the 'Optimize MTU' option. This will automatically adjust the MTU for your connection.
+
+Select the 'Verify TCP Connection' option. This will display whether your connection is using TCP window scaling.
+
+Finally, select the 'TCP Low Latency' option. This will implement low latency techniques to improve your connection speed.
+
+## System Requirements
+Operating System: ubutnu ^20.04
+
+
+## Warning
+Before making any changes to your system, make sure to back up your important data. Use of TCPIPTuner is at your own risk. Adaptive Computing is not responsible for any damage that may occur to your system as a result of using this tool.
